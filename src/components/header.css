@@ -1,0 +1,6 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    color:#fff700 ;
+    font-size: 30px;
+}
